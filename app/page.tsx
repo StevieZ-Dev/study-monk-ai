@@ -18,7 +18,8 @@ import {
   GraduationCap,
   Zap,
   FileText,
-  ExternalLink // <--- Added missing tool here!
+  ExternalLink,
+  Download // <--- Added missing tool here!
 } from 'lucide-react';
 
 // --- MOCK DATA GENERATORS (The "Tutor" Brain) ---
